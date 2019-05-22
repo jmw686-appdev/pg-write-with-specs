@@ -1,10 +1,12 @@
-# Photogram WRITE
+# PG Write (with specs)
 
 In this project, we'll be working with the same old domain model:
 
 ![Domain Model](erd.png?raw=true "Domain Model")
 
 In this project, our starting point is the [target of the last project, Photogram READ](https://photogram-read-target.herokuapp.com/). Our goal is to add the last piece: allowing users to _WRITE to_ our database, in addition to _READing from_ it.
+
+**This project includes automated tests.**
 
 ### Here is [our new target](https://photogram-write-target.herokuapp.com/).
 
